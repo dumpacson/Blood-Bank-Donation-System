@@ -2,7 +2,6 @@
 <html>
 <body>
   
-<h1>Blood Bank Management System</h1>
 <h3>INFO 3305</h3>
 <h3>WEB APPLICATION DEVELOPMENT</h3>
 <h3>SECTION 1</h3>
