@@ -9,13 +9,17 @@
 <h3>BLOOD BANK MANAGEMENT SYSTEM</h3>
 
  
- //test
- 
- # Foobar
+## Members
+Ahmad NorSafwan Bin Norasidin (2010279)
+Muhammad Hazim bin Ibrahim (2014309)
+Qoys Al Hanif Bin Jaafar (2016863)
+Zakarya Ahmed Babatat (1817749 )
+  
+## Introduction
 
 Foobar is a Python library for dealing with word pluralization.
 
-## Installation
+## Objective
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
@@ -23,7 +27,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 pip install foobar
 ```
 
-## Usage
+## Features & Functionalities
 
 ```python
 import foobar
