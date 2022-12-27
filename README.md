@@ -11,8 +11,11 @@
  
 ## Members
 Ahmad NorSafwan Bin Norasidin (2010279)
+  
 Muhammad Hazim bin Ibrahim (2014309)
+  
 Qoys Al Hanif Bin Jaafar (2016863)
+  
 Zakarya Ahmed Babatat (1817749 )
   
 ## Introduction
@@ -42,14 +45,14 @@ foobar.pluralize('goose')
 foobar.singularize('phenomena')
 ```
 
-## Contributing
+## Entity-Relationship Diagram
 
 Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
-## License
+## Sequence Diagram
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
