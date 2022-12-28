@@ -106,6 +106,6 @@ Click [here](https://github.com/dumpacson/Blood-Bank-Management-System/issues/3#
 
 ## Sequence Diagram
 
-Click [here]() to view the Sequence Diagram.<br/><br/>
+Click [here](https://github.com/dumpacson/Blood-Bank-Management-System/issues/4#issue-1512850541) to view the Sequence Diagram.<br/><br/>
 
 
