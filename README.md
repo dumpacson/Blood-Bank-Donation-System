@@ -24,6 +24,18 @@ Foobar is a Python library for dealing with word pluralization.
 
 ## Objective
 
+ The general objectives of this web application are to develop a reliable, convenient and is easy to use for everyone who wishes to donate blood. Our goals are as stated below.
+
+➢ For donors who want to inform themselves of all the process that goes into a blood donation.
+  
+➢ For donors who would prefer to register and make an appointment ahead of time to avoid wasting time.
+
+➢ Provide an application that is functional for donors to track all their blood donations.
+  
+➢ Provide an application for doctors to view all the details of the donors and donations.
+  
+➢To make blood donations easily accessible from one website.
+
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
 ```bash
