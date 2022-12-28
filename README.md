@@ -19,11 +19,15 @@ Qoys Al Hanif Bin Jaafar (2016863)
 Zakarya Ahmed Babatat (1817749 )
 	
 ## Table of Contents
-[Introduction](#introduction)
-[Objective](#objective)
-[Features & Functionalities](#features-&-functionalities)
-[Entity-Relationship Diagram](#entity-relationship-diagram)
-[Sequence Diagram](#sequence-diagram)
+- [Introduction](#introduction)
+
+- [Objective](#objective)
+
+- [Features & Functionalities](#features-&-functionalities)
+	
+- [Entity-Relationship Diagram](#entity-relationship-diagram)
+	
+- [Sequence Diagram](#sequence-diagram)
 
   
 ## Introduction
