@@ -110,14 +110,14 @@ Doctor: represents a medical professional who is involved in the blood donation 
 
 Donation: represents the donations made by a donor. Each donation may include one or more blood bags.
 
-Blood bags: represents the physical bags that contain blood or blood products. Each blood bag may be associated with a particular donation.<br></br>
+Blood Bags: represents the physical bags that contain blood or blood products. Each blood bag may be associated with a particular donation.<br></br>
 
 
 Entity relationships between these tables:
 
 - One donor may make many donations.
 - Each donation is made by one donor.
-- Each donation may include many blood bags.
+- Each donation includes only one blood bag.
 - Each blood bag is associated with one donation.<br></br>
 
 
