@@ -94,7 +94,7 @@ pip install foobar
 	
 #### Make An Appointment Page
   
-- New & old donors can make an appointment to avoid walk-in & waiting in line to donate their blood.
+- New & old donors can make an appointment to avoid registration during walk-in & waiting in line to donate their blood.<br></br>
 
 
 ```python
