@@ -77,6 +77,7 @@ pip install foobar
 
   
 4. Profile Page
+	
 	a. Doctor
   
 - Profile Icon - Dropdown (account details, donations’ table, donors’ table) 
