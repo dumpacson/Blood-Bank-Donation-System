@@ -104,8 +104,11 @@ An ER Diagram is a graphical representation that depicts relationships among the
 In our ER Diagram, we have 4 total entity sets which are, Donor, Doctor, Donation & Blood Bags.
 
 Donor: represents a person who donates blood or blood products.
+
 Doctor: represents a medical professional who is involved in the blood donation process, such as by ordering or receiving blood products.
+
 Donation: represents the donations made by a donor. Each donation may include one or more blood bags.
+
 Blood bags: represents the physical bags that contain blood or blood products. Each blood bag may be associated with a particular donation.
 
 Entity relationships between these tables:
