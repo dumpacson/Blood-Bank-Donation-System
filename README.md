@@ -18,6 +18,7 @@ Qoys Al Hanif Bin Jaafar (2016863)
   
 Zakarya Ahmed Babatat (1817749 )
 	
+	
 ## Table of Contents
 - [Introduction](#introduction)
 
@@ -33,12 +34,13 @@ Zakarya Ahmed Babatat (1817749 )
 ## Introduction
 
 This blood bank management system application was created based on the needs of a blood bank management team. The system aims to provide information on all the process that goes into a blood donation. The system will also provide the functionality of registering online to new donors and making an appointment to avoid wasting time. Already registered donors can also see all their past donations in one view making it easy if they ever want to look through and check. On the admin/doctor side, they can view the details of all the donations made and the details of all the donors in 2 separate views. They can handle the data needed to manage blood donations and donor's information. There will also be a view of all the available blood bags in the bank.
+	
 
 ## Objective
 
 The general objectives of this web application are to develop a reliable, convenient and is easy to use for everyone who wishes to donate blood. Our goals are as stated below.
 
-- For donors who want to inform themselves of all the process that goes into a blood donation.
+- Provide information for donors who want to inform themselves of all the process that goes into a blood donation.
   
 - For donors who would prefer to register and make an appointment ahead of time to avoid wasting time.
 
@@ -55,10 +57,10 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 pip install foobar
 ```
 
+	
 ## Features & Functionalities
 
 1. Homepage
-  
 - Introduction – A short brief on the blood bank’s website
 	
 - Make an Appointment - New & old donors can make an appointment to avoid waiting in line to donate their blood.
@@ -67,17 +69,14 @@ pip install foobar
 	  
 	
 2. Register page
-  
 - Page for donors to make new accounts for the system.<br/><br/>
 	
     
 3. Login page
-  
 - Page for doctors and donors to log into their account.<br/><br/>
-	
+
   
 4. Profile Page
-  
 	a. Doctor
   
 - Profile Icon - Dropdown (account details, donations’ table, donors’ table) 
@@ -89,6 +88,7 @@ pip install foobar
 - Profile Icon - Dropdown (account details, past donations) 
 - Make An Appointment<br/><br/>
 
+	
 5. Make An Appointment Page
   
 - New & old donors can make an appointment to avoid walk-in & waiting in line to donate their blood.
@@ -107,6 +107,7 @@ foobar.pluralize('goose')
 foobar.singularize('phenomena')
 ```
 
+	
 ## Entity-Relationship Diagram
 
 Pull requests are welcome. For major changes, please open an issue first
@@ -114,11 +115,9 @@ to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
+	
 ## Sequence Diagram
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-//endoftest
 
- </body>
- </html>
