@@ -81,7 +81,7 @@ pip install foobar
 	a. Doctor
   
 - Profile Icon - Dropdown (account details, donations’ table, donors’ table) 
-- Donors Page - List of all the details of the donors. (ID, Name, Age, Gender, Blood Type, Date of Donation)
+- Donors Page - List of all the details of the donors. (ID, Name, Age, Gender, Blood Type, Number of Donations)
 - Donations Page - List of all the details of the donations. (ID, Name, Age, Gender, Blood Type, Date of Donation)<br/><br/>
 
 	b. Donor
