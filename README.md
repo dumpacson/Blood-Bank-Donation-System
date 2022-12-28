@@ -92,7 +92,7 @@ The general objectives of this web application are to develop a reliable, conven
 
 ## Sitemap
 
-This sitemap contains information regarding the website's pages and the relationships between them.
+The sitemap below contains information regarding the website's pages and the relationships between them.
 
 Click [here](https://github.com/dumpacson/Blood-Bank-Management-System/issues/1#issue-1512838003) to view the sitemap.<br/><br/>
 	
@@ -126,13 +126,14 @@ Click [here](https://github.com/dumpacson/Blood-Bank-Management-System/issues/3#
 
 ## Sequence Diagram
 
-The sequence diagram above depicts how users interact with the Blood Donation Website. Starting with the general part of the website, The user opens the web browser and types in the URL of the website. The web browser sends a request to the server to access the website. The server receives the request and retrieves the necessary content from the database. The server sends the content back to the web browser. The web browser displays the content to the user.
+The sequence diagram below depicts how users interact with the Blood Donation Website. Starting with the general part of the website, The user opens the web browser and types in the URL of the website. The web browser sends a request to the server to access the website. The server receives the request and retrieves the necessary content from the database. The server sends the content back to the web browser. The web browser displays the content to the user.
 
 For the registration and login process, the user opens the web browser and navigates to the website's register page. The web browser sends a request to the server to access the register page. The server retrieves the register page content from the database and sends it back to the web browser. The web browser displays the register page to the user. The user fills out the registration form and submits it. The web browser sends the form data to the server. The server processes the form data and stores the user's account information in the database. The server sends a confirmation message to the web browser. The web browser displays the confirmation message to the user. The user navigates to the login page. The web browser sends a request to the server to access the login page. The server retrieves the login page content from the database and sends it back to the web browser. The web browser displays the login page to the user. The user enters their login credentials and submits the form. The web browser sends the login credentials to the server. The server checks the credentials against the information stored in the database. If the credentials are valid, the server grants the user access to the website and sends a confirmation message to the web browser. The web browser displays the confirmation message to the user and allows them to access the website's content.
 
 Next, this is how the user appointments are being processed. The user opens the web browser and navigates to the website's make an appointment page. The web browser sends a request to the server to access the make an appointment page. The server retrieves the make an appointment page content from the database and sends it back to the web browser. The web browser displays the make an appointment page to the user. The user selects the service they want to schedule and enters their contact information. The web browser sends the form data to the server. The server processes the form data and checks the availability of the selected service. If the service is available, the server stores the appointment information in the database and sends a confirmation message to the web browser. The web browser displays the confirmation message to the user. If the service is not available, the server sends an error message to the web browser. The web browser displays the error message to the user.
 
-Lastly, the simple logout process for the user to sign out from their account. The user clicks the logout button on the website. The web browser sends a request to the server to log out of the website. The server receives the request and removes the user's session information. The server sends a confirmation message to the web browser. The web browser displays the confirmation message to the user and redirects them to the login page.
+Lastly, the simple logout process for the user to sign out from their account. The user clicks the logout button on the website. The web browser sends a request to the server to log out of the website. The server receives the request and removes the user's session information. The server sends a confirmation message to the web browser. The web browser displays the confirmation message to the user and redirects them to the login page.<br></br>
+
 
 Click [here](https://github.com/dumpacson/Blood-Bank-Management-System/issues/4#issue-1512850541) to view the Sequence Diagram.<br/><br/>
 
