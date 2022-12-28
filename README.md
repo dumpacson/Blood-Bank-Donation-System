@@ -60,7 +60,7 @@ pip install foobar
 	
 ## Features & Functionalities
 
-1. Homepage
+#### Homepage
 - Introduction – A short brief on the blood bank’s website
 	
 - Make an Appointment - New & old donors can make an appointment to avoid waiting in line to donate their blood.
@@ -68,15 +68,15 @@ pip install foobar
 - Contact Us – Blood Bank’s Information.<br/><br/>
 	  
 	
-2. Register page
+#### Register page
 - Page for donors to make new accounts for the system.<br/><br/>
 	
     
-3. Login page
+#### Login page
 - Page for doctors and donors to log into their account.<br/><br/>
 
   
-4. Profile Page
+#### Profile Page
 	
 	a. Doctor
   
@@ -90,7 +90,7 @@ pip install foobar
 - Make An Appointment<br/><br/>
 
 	
-5. Make An Appointment Page
+#### Make An Appointment Page
   
 - New & old donors can make an appointment to avoid walk-in & waiting in line to donate their blood.
 
