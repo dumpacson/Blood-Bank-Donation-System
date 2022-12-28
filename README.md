@@ -51,13 +51,6 @@ The general objectives of this web application are to develop a reliable, conven
 - Provide an application for doctors to view all the details of the donors and donations.
   
 - To make blood donations easily accessible from one website.
-	
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
-```bash
-pip install foobar
-```
 
 	
 ## Features & Functionalities
@@ -111,13 +104,13 @@ foobar.pluralize('goose')
 foobar.singularize('phenomena')
 ```
 
+## Sitemap
+
+[Sitemap](https://github.com/dumpacson/Blood-Bank-Management-System/issues/1#issue-1512838003)
 	
 ## Entity-Relationship Diagram
 
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
+[Entity-Relationship Diagram](https://github.com/dumpacson/Blood-Bank-Management-System/issues/3#issue-1512842140)
 
 	
 ## Sequence Diagram
