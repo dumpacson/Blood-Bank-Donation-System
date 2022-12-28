@@ -99,7 +99,7 @@ Click [here](https://github.com/dumpacson/Blood-Bank-Management-System/issues/1#
 	
 ## Entity-Relationship Diagram
 
-An ER Diagram is a graphical representation that depicts relationships among the entity sets stored in a database.
+An [ER Diagram](https://github.com/dumpacson/Blood-Bank-Management-System/issues/3#issue-1512842140) is a graphical representation that depicts relationships among the entity sets stored in a database.
 
 In our ER Diagram, we have 4 total entity sets which are, Donor, Doctor, Donation & Blood Bags.<br></br>
 
@@ -126,7 +126,7 @@ Click [here](https://github.com/dumpacson/Blood-Bank-Management-System/issues/3#
 
 ## Sequence Diagram
 
-The sequence diagram below depicts how users interact with the Blood Donation Website. Starting with the general part of the website, The user opens the web browser and types in the URL of the website. The web browser sends a request to the server to access the website. The server receives the request and retrieves the necessary content from the database. The server sends the content back to the web browser. The web browser displays the content to the user.
+The [Sequence Diagram](https://github.com/dumpacson/Blood-Bank-Management-System/issues/4#issue-1512850541) below depicts how users interact with the Blood Donation Website. Starting with the general part of the website, The user opens the web browser and types in the URL of the website. The web browser sends a request to the server to access the website. The server receives the request and retrieves the necessary content from the database. The server sends the content back to the web browser. The web browser displays the content to the user.
 
 For the registration and login process, the user opens the web browser and navigates to the website's register page. The web browser sends a request to the server to access the register page. The server retrieves the register page content from the database and sends it back to the web browser. The web browser displays the register page to the user. The user fills out the registration form and submits it. The web browser sends the form data to the server. The server processes the form data and stores the user's account information in the database. The server sends a confirmation message to the web browser. The web browser displays the confirmation message to the user. The user navigates to the login page. The web browser sends a request to the server to access the login page. The server retrieves the login page content from the database and sends it back to the web browser. The web browser displays the login page to the user. The user enters their login credentials and submits the form. The web browser sends the login credentials to the server. The server checks the credentials against the information stored in the database. If the credentials are valid, the server grants the user access to the website and sends a confirmation message to the web browser. The web browser displays the confirmation message to the user and allows them to access the website's content.
 
