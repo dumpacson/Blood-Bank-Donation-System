@@ -33,7 +33,9 @@ Zakarya Ahmed Babatat (1817749 )
   
 ## Introduction
 
-This blood bank management system application was created based on the needs of a blood bank management team. The system aims to provide information on all the process that goes into a blood donation. The system will also provide the functionality of registering online to new donors and making an appointment to avoid wasting time. Already registered donors can also see all their past donations in one view making it easy if they ever want to look through and check. On the admin/doctor side, they can view the details of all the donations made and the details of all the donors in 2 separate views. They can handle the data needed to manage blood donations and donor's information. There will also be a view of all the available blood bags in the bank.
+This blood bank management system application was created based on the needs of a blood bank management team. The system aims to provide information on all the process that goes into a blood donation. The system will also provide the functionality of registering online to new donors and making an appointment to avoid wasting time.<br/><br/>
+Already registered donors can also see all their past donations in one view making it easy if they ever want to look through and check.<br/><br/>
+On the admin/doctor side, they can view the details of all the donations made and the details of all the donors in 2 separate views. They can handle the data needed to manage blood donations and donor's information. There will also be a view of all the available blood bags in the bank.
 	
 
 ## Objective
@@ -61,7 +63,7 @@ pip install foobar
 ## Features & Functionalities
 
 #### Homepage
-- Introduction – A short brief on the blood bank’s website
+- Introduction – A short brief on the blood bank’s website.
 	
 - Make an Appointment - New & old donors can make an appointment to avoid waiting in line to donate their blood.
 	
