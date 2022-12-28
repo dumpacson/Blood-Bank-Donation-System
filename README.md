@@ -35,6 +35,7 @@ The general objectives of this web application are to develop a reliable, conven
 ➢ Provide an application for doctors to view all the details of the donors and donations.
   
 ➢To make blood donations easily accessible from one website.
+	
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
@@ -46,19 +47,24 @@ pip install foobar
 
 1. Homepage
   
-a. Introduction – A short brief on the blood bank’s website
-b. Make an Appointment - New & old donors can make an appointment to avoid waiting in line to donate their blood.
-c. Contact Us – Blood Bank’s Information
+- Introduction – A short brief on the blood bank’s website
+	
+- Make an Appointment - New & old donors can make an appointment to avoid waiting in line to donate their blood.
+	
+- Contact Us – Blood Bank’s Information
+	
  
 2. Register page
   
 a. Page for donors to make new accounts for the system.
+	
   
 3. Login page
   
 a. Page for doctors and donors to log into their account.
+	
   
-3. Profile Page
+4. Profile Page
   
 	a. Doctor
   
@@ -70,7 +76,7 @@ a. Page for doctors and donors to log into their account.
 - Profile (pic) - dropdown (account details, past donations) 
 - Make An Appointment
 
-4. Make An Appointment Page
+5. Make An Appointment Page
   
 New & old donors can make an appointment to avoid walk-in & waiting in line to donate their blood.
 
