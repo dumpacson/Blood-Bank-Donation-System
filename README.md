@@ -91,30 +91,17 @@ The general objectives of this web application are to develop a reliable, conven
 - New & old donors can make an appointment to avoid registration during walk-in & waiting in line to donate their blood.<br></br>
 
 
-```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
-
 ## Sitemap
 
-[Sitemap](https://github.com/dumpacson/Blood-Bank-Management-System/issues/1#issue-1512838003)
+Click [here](https://github.com/dumpacson/Blood-Bank-Management-System/issues/1#issue-1512838003) to view the sitemap.
 	
 ## Entity-Relationship Diagram
 
-[Entity-Relationship Diagram](https://github.com/dumpacson/Blood-Bank-Management-System/issues/3#issue-1512842140)
+Click [here](https://github.com/dumpacson/Blood-Bank-Management-System/issues/3#issue-1512842140) to view the Entity-Relationship Diagram.
 
 	
 ## Sequence Diagram
 
-[MIT](https://choosealicense.com/licenses/mit/)
+Click [here]() to view the Sequence Diagram.
 
 
