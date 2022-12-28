@@ -69,7 +69,7 @@ pip install foobar
 	  
 	
 #### Register page
-- Page for donors to make new accounts for the system.<br/><br/>
+- Page for donors to make new donor accounts for the system.<br/><br/>
 	
     
 #### Login page
@@ -78,13 +78,13 @@ pip install foobar
   
 #### Profile Page
 	
-	a. Doctor
+a. Doctor
   
 - Profile Icon - Dropdown (account details, donations’ table, donors’ table) 
 - Donors Page - List of all the details of the donors. (ID, Name, Age, Gender, Blood Type, Number of Donations)
 - Donations Page - List of all the details of the donations. (ID, Name, Age, Gender, Blood Type, Date of Donation)<br/><br/>
 
-	b. Donor
+b. Donor
 	
 - Profile Icon - Dropdown (account details, past donations) 
 - Make An Appointment<br/><br/>
