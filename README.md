@@ -99,7 +99,9 @@ Click [here](https://github.com/dumpacson/Blood-Bank-Management-System/issues/1#
 	
 ## Entity-Relationship Diagram
 
+An ER Diagram is a graphical representation that depicts relationships among the entity sets stored in a database.
 
+In our ER Diagram, we have 4 total entity sets which are, Donor, Doctor, Donation & Blood Bags.
 
 Click [here](https://github.com/dumpacson/Blood-Bank-Management-System/issues/3#issue-1512842140) to view the Entity-Relationship Diagram.<br/><br/>
 	
