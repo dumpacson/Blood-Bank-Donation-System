@@ -26,14 +26,14 @@ Zakarya Ahmed Babatat (1817749)<br></br>
 	
 - [Entity-Relationship Diagram](#entity-relationship-diagram)
 	
-- [Sequence Diagram](#sequence-diagram)
+- [Sequence Diagram](#sequence-diagram)<br></br>
 
   
 ## Introduction
 
 This blood bank management system application was created based on the needs of a blood bank management team. The system aims to provide information on all the process that goes into a blood donation. The system will also provide the functionality of registering online to new donors and making an appointment to avoid wasting time.<br/><br/>
 Already registered donors can also see all their past donations in one view making it easy if they ever want to look through and check.<br/><br/>
-On the admin/doctor side, they can view the details of all the donations made and the details of all the donors in 2 separate views. They can handle the data needed to manage blood donations and donor's information. There will also be a view of all the available blood bags in the bank.
+On the admin/doctor side, they can view the details of all the donations made and the details of all the donors in 2 separate views. They can handle the data needed to manage blood donations and donor's information. There will also be a view of all the available blood bags in the bank.<br></br>
 	
 
 ## Objective
@@ -48,7 +48,7 @@ The general objectives of this web application are to develop a reliable, conven
   
 - Provide an application for doctors to view all the details of the donors and donations.
   
-- To make blood donations easily accessible from one website.
+- To make blood donations easily accessible from one website.<br></br>
 
 	
 ## Features & Functionalities
@@ -119,4 +119,4 @@ Anif, M., Dentha, A., & Sindung, H. W. S. (2017, October). Designing internship 
 	
 Burbeck, S. (1992). Applications programming in smalltalk-80 (tm): How to use model-view-controller (mvc). Smalltalk-80 v2, 5, 1-11.
 	
-Radack, S. (2009). The system development life cycle (sdlc) (No. ITL Bulletin April 2009 (Withdrawn)). National Institute of Standards and Technology.
+Radack, S. (2009). The system development life cycle (sdlc) (No. ITL Bulletin April 2009 (Withdrawn)). National Institute of Standards and Technology.<br></br>
