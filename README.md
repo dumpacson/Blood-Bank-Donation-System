@@ -26,6 +26,8 @@ Zakarya Ahmed Babatat (1817749 )
 
 - [Features & Functionalities](#features--functionalities)
 	
+- [Sitemap](#sitemap)
+	
 - [Entity-Relationship Diagram](#entity-relationship-diagram)
 	
 - [Sequence Diagram](#sequence-diagram)
@@ -70,7 +72,12 @@ The general objectives of this web application are to develop a reliable, conven
 #### Login page
 - Page for doctors and donors to log into their account.<br/><br/>
 
+
+ #### Make An Appointment Page
   
+- New & old donors can make an appointment to avoid registration during walk-in & waiting in line to donate their blood.<br></br>
+
+
 #### Profile Pages
 	
 <ins>Doctor</ins>
@@ -86,22 +93,19 @@ The general objectives of this web application are to develop a reliable, conven
 - Make An Appointment<br/><br/>
 
 	
-#### Make An Appointment Page
-  
-- New & old donors can make an appointment to avoid registration during walk-in & waiting in line to donate their blood.<br></br>
-
 
 ## Sitemap
 
-Click [here](https://github.com/dumpacson/Blood-Bank-Management-System/issues/1#issue-1512838003) to view the sitemap.
+Click [here](https://github.com/dumpacson/Blood-Bank-Management-System/issues/1#issue-1512838003) to view the sitemap.<br/><br/>
+	
 	
 ## Entity-Relationship Diagram
 
-Click [here](https://github.com/dumpacson/Blood-Bank-Management-System/issues/3#issue-1512842140) to view the Entity-Relationship Diagram.
-
+Click [here](https://github.com/dumpacson/Blood-Bank-Management-System/issues/3#issue-1512842140) to view the Entity-Relationship Diagram.<br/><br/>
 	
+
 ## Sequence Diagram
 
-Click [here]() to view the Sequence Diagram.
+Click [here]() to view the Sequence Diagram.<br/><br/>
 
 
