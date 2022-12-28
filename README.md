@@ -109,3 +109,14 @@ Click [here](https://github.com/dumpacson/Blood-Bank-Management-System/issues/3#
 Click [here](https://github.com/dumpacson/Blood-Bank-Management-System/issues/4#issue-1512850541) to view the Sequence Diagram.<br/><br/>
 
 
+## References
+	
+[American Red Cross Blood Services](https://www.redcrossblood.org/)
+
+Garett, R., Chiu, J., Zhang, L., & Young, S. D. (2016). A literature review: website design and user engagement. Online journal of communication and media technologies, 6(3), 1.
+	
+Anif, M., Dentha, A., & Sindung, H. W. S. (2017, October). Designing internship monitoring system web based with Laravel framework. In 2017 IEEE International Conference on Communication, Networks and Satellite (Comnetsat) (pp. 112-117). IEEE.
+	
+Burbeck, S. (1992). Applications programming in smalltalk-80 (tm): How to use model-view-controller (mvc). Smalltalk-80 v2, 5, 1-11.
+	
+Radack, S. (2009). The system development life cycle (sdlc) (No. ITL Bulletin April 2009 (Withdrawn)). National Institute of Standards and Technology.
