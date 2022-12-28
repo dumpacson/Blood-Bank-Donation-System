@@ -20,21 +20,21 @@ Zakarya Ahmed Babatat (1817749 )
   
 ## Introduction
 
-This blood bank management system database was created based on the needs of a blood bank management team. The system can encrypt the providers’ and recipients’ information. Administrators have access to the donor’s status and recipient’s information. They can handle the data needed to manage blood donation information and request for possible recipients. These characteristics were also listed and recorded in reports that acted as a history of transactions performed on the system.
+This blood bank management system application was created based on the needs of a blood bank management team. The system aims to provide information on all the process that goes into a blood donation. The system will also provide the functionality of registering online to new donors and making an appointment to avoid wasting time. Already registered donors can also see all their past donations in one view making it easy if they ever want to look through and check. On the admin/doctor side, they can view the details of all the donations made and the details of all the donors in 2 separate views. They can handle the data needed to manage blood donations and donor's information. There will also be a view of all the available blood bags in the bank.
 
 ## Objective
 
 The general objectives of this web application are to develop a reliable, convenient and is easy to use for everyone who wishes to donate blood. Our goals are as stated below.
 
-➢ For donors who want to inform themselves of all the process that goes into a blood donation.
+- For donors who want to inform themselves of all the process that goes into a blood donation.
   
-➢ For donors who would prefer to register and make an appointment ahead of time to avoid wasting time.
+- For donors who would prefer to register and make an appointment ahead of time to avoid wasting time.
 
-➢ Provide an application that is functional for donors to track all their blood donations.
+- Provide an application that is functional for donors to track all their blood donations.
   
-➢ Provide an application for doctors to view all the details of the donors and donations.
+- Provide an application for doctors to view all the details of the donors and donations.
   
-➢To make blood donations easily accessible from one website.
+- To make blood donations easily accessible from one website.
 	
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
@@ -51,34 +51,35 @@ pip install foobar
 	
 - Make an Appointment - New & old donors can make an appointment to avoid waiting in line to donate their blood.
 	
-- Contact Us – Blood Bank’s Information
+- Contact Us – Blood Bank’s Information.<br/><br/>
+	  
 	
- 
 2. Register page
   
-a. Page for donors to make new accounts for the system.
+- Page for donors to make new accounts for the system.<br/><br/>
 	
-  
+    
 3. Login page
   
-a. Page for doctors and donors to log into their account.
+- Page for doctors and donors to log into their account.<br/><br/>
 	
   
 4. Profile Page
   
 	a. Doctor
   
-- Profile (pic) - dropdown (account details, donors’ table) 
-- Donors Detail page - List of all the details of the donors. (ID, Name, Age, Gender, Blood Type, Date of Donation)
-- Donations Page - List of all the details of the donations. (ID, Name, Age, Gender, Blood Type, Date of Donation)
+- Profile Icon - Dropdown (account details, donations’ table, donors’ table) 
+- Donors Page - List of all the details of the donors. (ID, Name, Age, Gender, Blood Type, Date of Donation)
+- Donations Page - List of all the details of the donations. (ID, Name, Age, Gender, Blood Type, Date of Donation)<br/><br/>
 
 	b. Donor
-- Profile (pic) - dropdown (account details, past donations) 
-- Make An Appointment
+	
+- Profile Icon - Dropdown (account details, past donations) 
+- Make An Appointment<br/><br/>
 
 5. Make An Appointment Page
   
-New & old donors can make an appointment to avoid walk-in & waiting in line to donate their blood.
+- New & old donors can make an appointment to avoid walk-in & waiting in line to donate their blood.
 
 
 ```python
