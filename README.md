@@ -1,12 +1,8 @@
 # Blood-Bank-Management-System
-<html>
-<body>
   
-<h3>INFO 3305</h3>
-<h3>WEB APPLICATION DEVELOPMENT</h3>
-<h3>SECTION 1</h3>
-<h3>SEMESTER 1, SESSION 2022/2023</h3>
-<h3>BLOOD BANK MANAGEMENT SYSTEM</h3>
+#### INFO 3305 WEB APPLICATION DEVELOPMENT
+#### SECTION 1
+#### SEMESTER 1, SESSION 2022/2023<br></br>
 
  
 ## Members
@@ -16,7 +12,7 @@ Muhammad Hazim bin Ibrahim (2014309)
   
 Qoys Al Hanif Bin Jaafar (2016863)
   
-Zakarya Ahmed Babatat (1817749 )
+Zakarya Ahmed Babatat (1817749)<br></br>
 	
 	
 ## Table of Contents
@@ -96,10 +92,14 @@ The general objectives of this web application are to develop a reliable, conven
 
 ## Sitemap
 
+This sitemap contains information regarding the website's pages and the relationships between them.
+
 Click [here](https://github.com/dumpacson/Blood-Bank-Management-System/issues/1#issue-1512838003) to view the sitemap.<br/><br/>
 	
 	
 ## Entity-Relationship Diagram
+
+
 
 Click [here](https://github.com/dumpacson/Blood-Bank-Management-System/issues/3#issue-1512842140) to view the Entity-Relationship Diagram.<br/><br/>
 	
