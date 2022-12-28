@@ -20,11 +20,11 @@ Zakarya Ahmed Babatat (1817749 )
   
 ## Introduction
 
-Foobar is a Python library for dealing with word pluralization.
+This blood bank management system database was created based on the needs of a blood bank management team. The system can encrypt the providers’ and recipients’ information. Administrators have access to the donor’s status and recipient’s information. They can handle the data needed to manage blood donation information and request for possible recipients. These characteristics were also listed and recorded in reports that acted as a history of transactions performed on the system.
 
 ## Objective
 
- The general objectives of this web application are to develop a reliable, convenient and is easy to use for everyone who wishes to donate blood. Our goals are as stated below.
+The general objectives of this web application are to develop a reliable, convenient and is easy to use for everyone who wishes to donate blood. Our goals are as stated below.
 
 ➢ For donors who want to inform themselves of all the process that goes into a blood donation.
   
@@ -43,6 +43,37 @@ pip install foobar
 ```
 
 ## Features & Functionalities
+
+1. Homepage
+  
+a. Introduction – A short brief on the blood bank’s website
+b. Make an Appointment - New & old donors can make an appointment to avoid waiting in line to donate their blood.
+c. Contact Us – Blood Bank’s Information
+ 
+2. Register page
+  
+a. Page for donors to make new accounts for the system.
+  
+3. Login page
+  
+a. Page for doctors and donors to log into their account.
+  
+3. Profile Page
+  
+	a. Doctor
+  
+- Profile (pic) - dropdown (account details, donors’ table) 
+- Donors Detail page - List of all the details of the donors. (ID, Name, Age, Gender, Blood Type, Date of Donation)
+- Donations Page - List of all the details of the donations. (ID, Name, Age, Gender, Blood Type, Date of Donation)
+
+	b. Donor
+- Profile (pic) - dropdown (account details, past donations) 
+- Make An Appointment
+
+4. Make An Appointment Page
+  
+New & old donors can make an appointment to avoid walk-in & waiting in line to donate their blood.
+
 
 ```python
 import foobar
