@@ -24,7 +24,7 @@ Zakarya Ahmed Babatat (1817749 )
 
 - [Objective](#objective)
 
-- [Features & Functionalities](#features-&-functionalities)
+- [Features & Functionalities](#features--functionalities)
 	
 - [Entity-Relationship Diagram](#entity-relationship-diagram)
 	
@@ -63,30 +63,31 @@ pip install foobar
 ## Features & Functionalities
 
 #### Homepage
-- Introduction – A short brief on the blood bank’s website.
+- Introduction – A short brief on the blood bank’s website & also information regarding the blood donation process.
 	
-- Make an Appointment - New & old donors can make an appointment to avoid waiting in line to donate their blood.
+- Make an Appointment Button - A button in the make an appointment section that redirects to the make an appointment page.
 	
 - Contact Us – Blood Bank’s Information.<br/><br/>
 	  
 	
 #### Register page
-- Page for donors to make new donor accounts for the system.<br/><br/>
+- Page for new donors to register for new accounts in the system.<br/><br/>
 	
     
 #### Login page
 - Page for doctors and donors to log into their account.<br/><br/>
 
   
-#### Profile Page
+#### Profile Pages
 	
-<span style="text-decoration: underline">Doctor</span>
+<ins>Doctor</ins>
   
-- Profile Icon - Dropdown (account details, donations’ table, donors’ table) 
+- Profile Icon - Dropdown (account details, donations’ table, donors’ table, blood bags table) 
 - Donors Page - List of all the details of the donors. (ID, Name, Age, Gender, Blood Type, Number of Donations)
-- Donations Page - List of all the details of the donations. (ID, Name, Age, Gender, Blood Type, Date of Donation)<br/><br/>
+- Donations Page - List of all the details of the donations. (ID, Name, Age, Gender, Blood Type, Date of Donation)
+- Available Blood Bags Page - List of all the stored blood bags in the blood bank. (Blood Type, Amount)<br/><br/>
 
-<span style="text-decoration: underline">Donor</span>
+<ins>Donor</ins>
 
 - Profile Icon - Dropdown (account details, past donations) 
 - Make An Appointment<br/><br/>
