@@ -1,4 +1,4 @@
-# Blood-Bank-Management-System
+# Blood-Donation-System
   
 #### INFO 3305 WEB APPLICATION DEVELOPMENT
 #### SECTION 1
