@@ -26,7 +26,11 @@ Zakarya Ahmed Babatat (1817749)<br></br>
 	
 - [Entity-Relationship Diagram](#entity-relationship-diagram)
 	
-- [Sequence Diagram](#sequence-diagram)<br></br>
+- [Sequence Diagram](#sequence-diagram)
+
+- [Screens](#screens)
+
+- [Challenges & Opportunities](#challenges--opportunities)<br></br>
 
   
 ## Introduction
