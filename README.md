@@ -76,7 +76,7 @@ The general objectives of this web application are to develop a reliable, conven
 
 #### Profile Pages
 	
-<ins>Doctor</ins>
+<ins>Admin</ins>
   
 - Profile Icon - Dropdown (account details, donations’ table, donors’ table, blood bags’ table) 
 - Donors Page - List of all the details of the donors. (ID, Name, Age, Gender, Blood Type, Number of Donations)
@@ -145,8 +145,21 @@ Click [here](https://github.com/dumpacson/Blood-Bank-Management-System/issues/4#
 
 ## Screens
 
-- .<br/><br/>
+<ins>Admin's view</ins>
 
+- [Home](https://github.com/dumpacson/Blood-Bank-Donation-System/issues/6#issue-1557779422).
+- [List of Donors](https://github.com/dumpacson/Blood-Bank-Donation-System/issues/6#issue-1557779422)
+- [List of Donations](https://github.com/dumpacson/Blood-Bank-Donation-System/issues/6#issue-1557779422)
+- [List of Available Blood](https://github.com/dumpacson/Blood-Bank-Donation-System/issues/6#issue-1557779422)
+- <br/><br/>
+
+
+<ins>Donor's view</ins>
+
+- [Home](https://github.com/dumpacson/Blood-Bank-Donation-System/issues/6#issue-1557779422)
+- [Make an Appointment](https://github.com/dumpacson/Blood-Bank-Donation-System/issues/6#issue-1557779422)
+- [Account Details](https://github.com/dumpacson/Blood-Bank-Donation-System/issues/6#issue-1557779422)<br/><br/>
+- 
 
 ## Challenges & Opportunities
 
