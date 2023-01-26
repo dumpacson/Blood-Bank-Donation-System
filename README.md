@@ -142,6 +142,18 @@ Lastly, the simple logout process for the user to sign out from their account. T
 Click [here](https://github.com/dumpacson/Blood-Bank-Management-System/issues/4#issue-1512850541) to view the Sequence Diagram.<br/><br/>
 
 
+
+## Screens
+
+
+
+
+## Challenges & Opportunities
+
+- Figuring out how to make the different roles for the donors & staffs sides which have different views and functions.
+
+
+
 ## References
 	
 [American Red Cross Blood Services](https://www.redcrossblood.org/)
