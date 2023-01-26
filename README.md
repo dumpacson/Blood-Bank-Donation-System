@@ -33,7 +33,7 @@ Zakarya Ahmed Babatat (1817749)<br></br>
 
 This blood bank management system application was created based on the needs of a blood bank management team. The system aims to provide information on all the process that goes into a blood donation. The system will also provide the functionality of registering online to new donors and making an appointment to avoid wasting time.<br/><br/>
 Already registered donors can also see all their past donations in one view making it easy if they ever want to look through and check.<br/><br/>
-On the admin/doctor side, they can view the details of all the donations made and the details of all the donors in 2 separate views. They can handle the data needed to manage blood donations and donor's information. There will also be a view of all the available blood bags in the bank.<br></br>
+On the admin/staff side, they can view the details of all the donations made and the details of all the donors in 2 separate views. They can handle the data needed to manage blood donations and donor's information. There will also be a view of all the available blood bags in the bank.<br></br>
 	
 
 ## Objective
@@ -46,7 +46,7 @@ The general objectives of this web application are to develop a reliable, conven
 
 - Provide an application that is functional for donors to track all their blood donations.
   
-- Provide an application for doctors to view all the details of the donors and donations.
+- Provide an application for medical staffs to view all the details of the donors and donations.
   
 - To make blood donations easily accessible from one website.<br></br>
 
@@ -66,7 +66,7 @@ The general objectives of this web application are to develop a reliable, conven
 	
     
 #### Login page
-- Page for doctors and donors to log into their account.<br/><br/>
+- Page for staffs and donors to log into their account.<br/><br/>
 
 
  #### Make An Appointment Page
@@ -78,7 +78,7 @@ The general objectives of this web application are to develop a reliable, conven
 	
 <ins>Doctor</ins>
   
-- Profile Icon - Dropdown (account details, donations’ table, donors’ table, blood bags table) 
+- Profile Icon - Dropdown (account details, donations’ table, donors’ table, blood bags’ table) 
 - Donors Page - List of all the details of the donors. (ID, Name, Age, Gender, Blood Type, Number of Donations)
 - Donations Page - List of all the details of the donations. (ID, Name, Age, Gender, Blood Type, Date of Donation)
 - Available Blood Bags Page - List of all the stored blood bags in the blood bank. (Blood Type, Amount)<br/><br/>
@@ -101,16 +101,18 @@ Click [here](https://github.com/dumpacson/Blood-Bank-Management-System/issues/1#
 
 An [ER Diagram](https://github.com/dumpacson/Blood-Bank-Management-System/issues/3#issue-1512842140) is a graphical representation that depicts relationships among the entity sets stored in a database.
 
-In our ER Diagram, we have 4 total entity sets which are, Donor, Doctor, Donation & Blood Bags.<br></br>
+In our ER Diagram, we have 5 total entity sets which are, Donor, Admin, Donation, Blood Bags, and Appointment.<br></br>
 
 
 Donor: represents a person who donates blood or blood products.
 
-Doctor: represents a medical professional who is involved in the blood donation process, such as by ordering or receiving blood products.
+Admin: represents a medical professional who is involved in the blood donation process, such as by ordering or receiving blood products.
 
 Donation: represents the donations made by a donor. Each donation may include one or more blood bags.
 
-Blood Bags: represents the physical bags that contain blood or blood products. Each blood bag may be associated with a particular donation.<br></br>
+Blood Bags: represents the physical bags that contain blood or blood products. Each blood bag may be associated with a particular donation.
+
+Appointment: represents the details of the appointments made by the donors.<br></br>
 
 
 Entity relationships between these tables:
@@ -118,7 +120,9 @@ Entity relationships between these tables:
 - One donor may make many donations.
 - Each donation is made by one donor.
 - Each donation includes only one blood bag.
-- Each blood bag is associated with one donation.<br></br>
+- Each blood bag is associated with one donation.
+- One donor can make one or more appointments.
+- Each appointment can only be made by one donor.<br></br>
 
 
 Click [here](https://github.com/dumpacson/Blood-Bank-Management-System/issues/3#issue-1512842140) to view the Entity-Relationship Diagram.<br/><br/>
