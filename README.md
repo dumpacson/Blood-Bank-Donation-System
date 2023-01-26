@@ -7,10 +7,10 @@
  
 ## Members
 Ahmad NorSafwan Bin Norasidin (2010279)
-  
-Muhammad Hazim bin Ibrahim (2014309)
-  
+
 Qoys Al Hanif Bin Jaafar (2016863)
+
+Muhammad Hazim bin Ibrahim (2014309)
   
 Zakarya Ahmed Babatat (1817749)<br></br>
 	
