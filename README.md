@@ -149,21 +149,23 @@ Click [here](https://github.com/dumpacson/Blood-Bank-Management-System/issues/4#
 
 ## Screens
 
+- [Register & Login](https://github.com/dumpacson/Blood-Bank-Donation-System/issues/8#issue-1558318085)<br/><br/>
+
 <ins>Admin's view</ins>
 
-- [Home](https://github.com/dumpacson/Blood-Bank-Donation-System/issues/6#issue-1557779422).
-- [List of Donors](https://github.com/dumpacson/Blood-Bank-Donation-System/issues/6#issue-1557779422)
-- [List of Donations](https://github.com/dumpacson/Blood-Bank-Donation-System/issues/6#issue-1557779422)
-- [List of Available Blood](https://github.com/dumpacson/Blood-Bank-Donation-System/issues/6#issue-1557779422)
-- <br/><br/>
+- [Home](https://github.com/dumpacson/Blood-Bank-Donation-System/issues/7#issue-1558316947)
+- [List of Donors](https://github.com/dumpacson/Blood-Bank-Donation-System/issues/12#issue-1558327120)
+- [List of Donations](https://github.com/dumpacson/Blood-Bank-Donation-System/issues/13#issue-1558327558)
+- [List of Available Blood](https://github.com/dumpacson/Blood-Bank-Donation-System/issues/14#issue-1558328282)
+- [List of Appointments](https://github.com/dumpacson/Blood-Bank-Donation-System/issues/15#issue-1558328588)<br/><br/>
 
 
 <ins>Donor's view</ins>
 
-- [Home](https://github.com/dumpacson/Blood-Bank-Donation-System/issues/6#issue-1557779422)
-- [Make an Appointment](https://github.com/dumpacson/Blood-Bank-Donation-System/issues/6#issue-1557779422)
-- [Account Details](https://github.com/dumpacson/Blood-Bank-Donation-System/issues/6#issue-1557779422)<br/><br/>
-- 
+- [Home](https://github.com/dumpacson/Blood-Bank-Donation-System/issues/9#issue-1558324827)
+- [Make an Appointment](https://github.com/dumpacson/Blood-Bank-Donation-System/issues/10#issue-1558325790)
+- [Account Details](https://github.com/dumpacson/Blood-Bank-Donation-System/issues/11#issue-1558326136)<br/><br/>
+
 
 ## Challenges & Opportunities
 
