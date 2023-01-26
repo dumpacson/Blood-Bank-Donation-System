@@ -99,7 +99,7 @@ Click [here](https://github.com/dumpacson/Blood-Bank-Donation-System/issues/6#is
 	
 ## Entity-Relationship Diagram
 
-An [ER Diagram](https://github.com/dumpacson/Blood-Bank-Management-System/issues/3#issue-1512842140) is a graphical representation that depicts relationships among the entity sets stored in a database.
+An [ER Diagram](https://github.com/dumpacson/Blood-Bank-Donation-System/issues/5#issue-1557775914) is a graphical representation that depicts relationships among the entity sets stored in a database.
 
 In our ER Diagram, we have 5 total entity sets which are, Donor, Admin, Donation, Blood Bags, and Appointment.<br></br>
 
@@ -125,7 +125,7 @@ Entity relationships between these tables:
 - Each appointment can only be made by one donor.<br></br>
 
 
-Click [here](https://github.com/dumpacson/Blood-Bank-Management-System/issues/3#issue-1512842140) to view the Entity-Relationship Diagram.<br/><br/>
+Click [here](https://github.com/dumpacson/Blood-Bank-Donation-System/issues/5#issue-1557775914) to view the Entity-Relationship Diagram.<br/><br/>
 	
 
 ## Sequence Diagram
