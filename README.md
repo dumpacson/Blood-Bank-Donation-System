@@ -145,12 +145,12 @@ Click [here](https://github.com/dumpacson/Blood-Bank-Management-System/issues/4#
 
 ## Screens
 
-
+- .<br/><br/>
 
 
 ## Challenges & Opportunities
 
-- Figuring out how to make the different roles for the donors & staffs sides which have different views and functions.
+- Figuring out how to make the different roles for the donors & staffs sides which have different views and functions.<br/><br/>
 
 
 
